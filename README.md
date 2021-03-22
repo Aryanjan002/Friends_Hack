@@ -9,3 +9,5 @@
 # cd Friends_Hack
 # ls
 # python2 Aryanhacker.py
+# Username Aryan 
+# password Hacker
